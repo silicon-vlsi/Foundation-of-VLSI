@@ -19,7 +19,7 @@ Design Principles preparing the students for the VLSI Industry in this short spa
 - **Standard Cell Basics**
 - **Standard Cell Characterization**
 ## Part-3
-- **Static Timing Analysis (STA)
+- **Static Timing Analysis (STA)**
 ## Part-4
 - **Logic Synthesis**
 ## Part-5
