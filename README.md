@@ -8,4 +8,19 @@ This is a summer course has been organized by Advance VLSI Lab with the collabor
 - **Course Outcomes**: This course will provide a strong foundation in VLSI Design covering a wide range of topics from basic MOS operation to complex Physical
 Design Principles preparing the students for the VLSI Industry in this short span of time.
 
-# Table of the Contents
+# Course Contents
+## Part-1
+- **Basic VLSI Design Flow**
+- **MOSFET basics**
+- **MOSFET Modelling**
+- **Static and Dynamic Characteristics CMOS Inverter**
+- **Combinational and Seqquential Logic Design**
+## Part-2
+- **Standard Cell Basics**
+- **Standard Cell Characterization**
+## Part-3
+- **Static Timing Analysis (STA)
+## Part-4
+- **Logic Synthesis**
+## Part-5
+- **Hands on using Open STA**
