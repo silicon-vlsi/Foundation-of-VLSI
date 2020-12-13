@@ -18,7 +18,7 @@ Design Principles preparing the students for the VLSI Industry in this short spa
 ## Part-2
 - **Standard Cell Basics**
 - **Standard Cell Characterization**
-- **Basics of Static Timing Analysis
+- **Basics of Static Timing Analysis**
 ## Part-3
 - **Advance Static Timing Analysis**
 - **Logic Synthesis**
@@ -27,3 +27,4 @@ Design Principles preparing the students for the VLSI Industry in this short spa
 
 # Course Material
 - **Lecture-1: Overview of RTL-TO-GDS flow** [[Video]](https://www.youtube.com/watch?v=c8Lz1ZZ_ErY&feature=youtu.be)
+- **Lecture-2: Overview of VLSI front-end design flow** [[Video]](https://www.youtube.com/watch?v=PwXXZQqbB3Y)
