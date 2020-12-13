@@ -28,3 +28,4 @@ Design Principles preparing the students for the VLSI Industry in this short spa
 # Course Material
 - **Lecture-1: Overview of RTL-TO-GDS flow** [[Video]](https://www.youtube.com/watch?v=c8Lz1ZZ_ErY&feature=youtu.be)
 - **Lecture-2: Overview of VLSI front-end design flow** [[Video]](https://www.youtube.com/watch?v=PwXXZQqbB3Y)
+- **Lecture-3: Overview of VLSI back-end design flow** [[Video]](https://www.youtube.com/watch?v=hdXpK6K8gDI)
