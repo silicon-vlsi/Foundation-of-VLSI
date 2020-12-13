@@ -21,6 +21,9 @@ Design Principles preparing the students for the VLSI Industry in this short spa
 - **Basics of Static Timing Analysis
 ## Part-3
 - **Advance Static Timing Analysis**
-- **Logic Synthesis
+- **Logic Synthesis**
 ## Part-4
 - **Hands on using Open STA**
+
+# Course Material
+- **Lecture-1: Overview of RTL-TO-GDS flow** [[Video]](https://www.youtube.com/watch?v=c8Lz1ZZ_ErY&feature=youtu.be)
